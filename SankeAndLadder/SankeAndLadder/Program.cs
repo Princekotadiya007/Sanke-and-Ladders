@@ -51,6 +51,7 @@ namespace SankeAndLadder
                     Console.WriteLine("Your new position is " + position);
                 }
             }
+
             Console.WriteLine("You won the game! You are at position 100");
             Console.ReadLine();
         }
